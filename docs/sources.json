@@ -1,0 +1,22 @@
+{
+  "accessed": "2026-10-05",
+  "method": "Public thread reader and official X public embed; exploratory qualitative sample",
+  "sources": [
+    {
+      "id": "R4",
+      "url": "https://www.reddit.com/r/BookmarkManagers/comments/1vv75ls/how_do_you_deal_with_saving_too_many_articles_and/",
+      "date": "Search index: 2026-08-22",
+      "access": "Public thread and visible comments read with the web reader.",
+      "observation": "The author saves across several places but rarely returns. Some replies report that better storage alone has not changed revisiting; many replies promote their own tools.",
+      "theme": "reading"
+    },
+    {
+      "id": "R5",
+      "url": "https://www.reddit.com/r/Twitter/comments/1wpz9k5/bookmarks_only_loading_to_a_certain_point_then/",
+      "date": "Search index: late September 2026; exact publication metadata unavailable",
+      "access": "Public thread read with the web reader.",
+      "observation": "The author reports trouble retrieving older saved posts. It motivates portable personal links, but is not proof of a platform-wide bug or a bug this app can repair.",
+      "theme": "reading"
+    }
+  ]
+}
